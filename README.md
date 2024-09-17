@@ -12,7 +12,7 @@
  
 
 
-💬 Thank you for visiting my GitHub profile. I hope you find my projects and contributions useful and interesting. If you have any questions or want to collaborate on a project, feel free to reach out to me. I am always open to new opportunities and connections in the tech industry **Ask me about anything in frontend [here](https://github.com/Kralil-Moussaab/)**
+💬 Thank you for visiting my GitHub profile. I hope you find my projects and contributions useful and interesting. If you have any questions or want to collaborate on a project, feel free to reach out to me. I am always open to new opportunities and connections in the tech industry,And **Ask me about anything in frontend [here](https://github.com/Kralil-Moussaab/)**
 
 
  </div>
@@ -31,8 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,javascript,react,bootstrap,tailwind,nodejs,mui,vscode,github,figma,git,r" />
 </div>
 
 <br/>
@@ -51,9 +50,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img  src="https://streak-stats.demolab.com?user=kralil-moussaab&theme=dark&border_radius=13.9&card_width=486&sideLabels=EB5454&stroke=EB5454" alt="GitHub Streak"/>
-  <img width=390 src="https://https://github-readme-stats.vercel.app/api?username=kralil-moussaab&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=418 src="https://streak-stats.demolab.com?user=kralil-moussaab&theme=react&border_radius=13.9" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kralil-moussaab&show_icons=true&theme=react" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-kralil-moussaab.vercel.app/api/top-langs/?username=kralil-moussaab&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kralil-moussaab&layout=compact&show_icons=true&theme=react" alt="top langs" />
 </div>
 
